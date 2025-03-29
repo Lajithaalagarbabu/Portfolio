@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import Navbar from "../components/Navbar";
 // Images
-import phcLoginPageImage1 from "../../../public/phcLoginPage.png";
+import phcLoginPageImage1 from "../../../public/phcloginpage.png";
 import closeFriendsImage2 from "../../../public/CLOSEFRIENDS.png";
 // import fitnessimage3 from "../../../public/myprojects/fitnessimage3.png";
 // import fooddeleiveryimage4 from "../../../public/myprojects/fooddeleiveryimage4.png";
