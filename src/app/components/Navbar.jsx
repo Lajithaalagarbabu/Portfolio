@@ -20,7 +20,7 @@ const Navbar = () => {
 
   const handleDownload = () => {
     const link = document.createElement("a");
-    link.href = "/Lajitha_resume.pdf"; // Access files in the public folder directly
+    link.href = "/lajitha-resume.pdf"; // Access files in the public folder directly
     link.download = "Lajitha-resume.pdf"; // Name for the downloaded file
     document.body.appendChild(link); // Append the link to the document
     link.click(); // Programmatically click the link
